@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # ☁️ Terraform AWS Auto Scaling Group Deployment
 
 ![Terraform](https://img.shields.io/badge/Terraform-1.0+-7B42BC?style=for-the-badge&logo=terraform)
